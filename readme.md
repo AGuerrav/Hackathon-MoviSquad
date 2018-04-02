@@ -9,7 +9,5 @@ Por ejemplo: antes de ir a ver una película o abrir las páginas con servicios 
 
 ![image](https://user-images.githubusercontent.com/32298729/37925830-f98c7402-310b-11e8-9612-32ac4283868f.png)
 
-
-## Desarrollado
-
-Para Laboratoria
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
